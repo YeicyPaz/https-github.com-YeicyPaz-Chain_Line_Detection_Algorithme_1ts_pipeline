@@ -1,5 +1,5 @@
 # Chain Line Extraction First Pipeline Algorithme
-<big> This pipeline is the first approach of two approaches developed to extract string lines (also knows as Chain Lines) from manuscript images. The algorithm applies preprocessing to delete the text with the tool Magic Eraser, followed by adaptive binarization and the Hough Probabilistic Transform to draw lines.
+<big> This pipeline is the **first** approach of two approaches developed to extract string lines (also knows as Chain Lines) from manuscript images. The algorithm applies preprocessing to delete the text with the tool Magic Eraser, followed by adaptive binarization and the Hough Probabilistic Transform to draw lines.
 
 However, this method has a lack of accuracy because the results vary according to the unique characteristics of each image, requiring manual adjustment of the parameters. </big>
 
